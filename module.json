@@ -1,0 +1,173 @@
+{
+  "name": "mod-my-world",
+  "title": "My World",
+  "description": "<p>Compendiums para os meus mundos e configurações</p>",
+  "author": "Renato innocenti",
+  "version": "0.6.4",
+  "minimumCoreVersion": "0.6.6",
+  "compatibleCoreVersion": "0.7.x",
+  "esmodules": [ "scripts/macrolongrest.js", "main.js" ],
+  "scripts": [],
+  "styles": [],
+  "socket": true,
+  "url": "https://github.com/rinnocenti/mod-my-world",
+  "manifest": "https://raw.githubusercontent.com/rinnocenti/mod-my-world/master/module.json",
+  "download": "https://github.com/rinnocenti/mod-my-world/archive/0.6.4.zip",
+  "packs": [
+    {
+      "name": "factions",
+      "label": "Faerun-Factions",
+      "path": "packs/faccoes-e-tribos.db",
+      "module": "mod-my-world",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "citys",
+      "label": "Faerun-Citys",
+      "path": "packs/faerun-citys.db",
+      "module": "mod-my-world",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "locals",
+      "label": "Faerun-Maps-Locals",
+      "path": "packs/faerun-maplocals.db",
+      "module": "mod-my-world",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "oldmaps",
+      "label": "Faerun-Maps-inCity",
+      "path": "packs/faerun-oldmaps.db",
+      "module": "mod-my-world",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "dungeons",
+      "label": "Faerun-Dungeons",
+      "path": "packs/faerun-dungeons.db",
+      "module": "mod-my-world",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "handout",
+      "label": "Players-Handouts",
+      "path": "packs/players-handout.db",
+      "module": "mod-my-world",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "npcs",
+      "label": "NPCs",
+      "path": "packs/my-npcs.db",
+      "module": "mod-my-world",
+      "entity": "Actor"
+    },
+    {
+      "name": "players",
+      "label": "Players",
+      "path": "packs/my-players.db",
+      "module": "mod-my-world",
+      "entity": "Actor"
+    },
+    {
+      "name": "shoping",
+      "label": "Shopping",
+      "path": "packs/npc-shoping.db",
+      "module": "mod-my-world",
+      "entity": "Actor"
+    },
+    {
+      "name": "loots",
+      "label": "Loots",
+      "path": "packs/my-loot.db",
+      "module": "mod-my-world",
+      "entity": "Actor"
+    },
+    {
+      "name": "others",
+      "label": "Others Monsters",
+      "path": "packs/others-monsters.db",
+      "module": "mod-my-world",
+      "entity": "Actor"
+    },
+    {
+      "name": "scenes",
+      "label": "my Scenes",
+      "path": "packs/my-scenes.db",
+      "module": "mod-my-world",
+      "entity": "Scene"
+    },
+    {
+      "name": "scenes",
+      "label": "World Scenes",
+      "path": "packs/my-scenes.db",
+      "module": "mod-my-world",
+      "entity": "Scene"
+    },
+    {
+      "name": "item-custom",
+      "label": "Custom Items",
+      "path": "packs/item-custom.db",
+      "module": "mod-my-world",
+      "entity": "Item"
+    },
+    {
+      "name": "item-services",
+      "label": "Custom Services",
+      "path": "packs/item-services.db",
+      "module": "mod-my-world",
+      "entity": "Item"
+    },
+    {
+      "name": "item-shop",
+      "label": "Custom Items Shop",
+      "path": "packs/item-shop.db",
+      "module": "mod-my-world",
+      "entity": "Item"
+    },
+    {
+      "name": "item-gemstones",
+      "label": "Custom Gemstones",
+      "path": "packs/item-gamestones.db",
+      "module": "mod-my-world",
+      "entity": "Item"
+    },
+    {
+      "name": "item-recipes",
+      "label": "Custom Recipies",
+      "path": "packs/item-recipes.db",
+      "module": "mod-my-world",
+      "entity": "Item"
+    },
+    {
+      "name": "item-foods",
+      "label": "Custom Foods",
+      "path": "packs/item-food.db",
+      "module": "mod-my-world",
+      "entity": "Item"
+    },
+    {
+      "name": "item-mistify",
+      "label": "Item Mistificado",
+      "path": "packs/item-mistify.db",
+      "module": "mod-my-world",
+      "entity": "Item"
+    },
+    {
+      "name": "tables-item",
+      "label": "Table Items",
+      "path": "packs/table-item.db",
+      "module": "mod-my-world",
+      "entity": "RollTable"
+    },
+    {
+      "name": "macros-houserules",
+      "label": "House Rules",
+      "path": "packs/macros-hauserules.db",
+      "module": "mod-my-world",
+      "entity": "Macro"
+    }
+  ]
+
+}
