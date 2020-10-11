@@ -1,0 +1,2045 @@
+{
+  "system": "dnd5e",
+  "map": [
+    {
+      "name": "Blinded",
+      "icon": "modules/combat-utility-belt/icons/blinded.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Charmed",
+      "icon": "modules/combat-utility-belt/icons/charmed.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Concentrating",
+      "icon": "modules/combat-utility-belt/icons/concentrating.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Deafened",
+      "icon": "modules/combat-utility-belt/icons/deafened.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Exhaustion 1",
+      "icon": "modules/combat-utility-belt/icons/exhaustion1.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Exhaustion 2",
+      "icon": "modules/combat-utility-belt/icons/exhaustion2.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Exhaustion 3",
+      "icon": "modules/combat-utility-belt/icons/exhaustion3.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Exhaustion 4",
+      "icon": "modules/combat-utility-belt/icons/exhaustion4.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Exhaustion 5",
+      "icon": "modules/combat-utility-belt/icons/exhaustion5.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Frightened",
+      "icon": "modules/combat-utility-belt/icons/frightened.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Grappled",
+      "icon": "modules/combat-utility-belt/icons/grappled.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Incapacitated",
+      "icon": "modules/combat-utility-belt/icons/incapacitated.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Invisible",
+      "icon": "modules/combat-utility-belt/icons/invisible.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Paralyzed",
+      "icon": "modules/combat-utility-belt/icons/paralyzed.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Petrified",
+      "icon": "modules/combat-utility-belt/icons/petrified.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Poisoned",
+      "icon": "modules/combat-utility-belt/icons/poisoned.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Prone",
+      "icon": "modules/combat-utility-belt/icons/prone.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Restrained",
+      "icon": "modules/combat-utility-belt/icons/restrained.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Stunned",
+      "icon": "modules/combat-utility-belt/icons/stunned.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Unconscious",
+      "icon": "icons/svg/unconscious.svg",
+      "referenceType": "compendium.journalEntry",
+      "compendium": "combat-utility-belt.conditionsdnd5e",
+      "referenceId": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+      "applyTrigger": "a5zg96nwbecgc89u",
+      "removeTrigger": "2fb10pjcyuod8pn1",
+      "options": {
+        "overlay": true,
+        "removeOthers": true,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-atlas",
+      "isCompendiumReference": true,
+      "isJournalCompendium": true,
+      "compendiumEntries": [
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.oScVqOHJt5SQszVl]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Blinded"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.UWlXFfSX95JVWrYs]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Charmed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.nSoKejZfahbxfggp]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Concentrating"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.p9CQYqWS7s4Abwqk]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Deafened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.4Z1Ins4wHUAWJal2]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Exhaustion"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.PTANb5kCweCv3Jna]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Frightened"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.qKqW3LJEQpJ7T3v8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Grappled"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.hWk0QM9u7SUpd4BX]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Incapacitated"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.pSvtps6WHVAuWh9l]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Invisible"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.o5oZVdHSWmceeFyx]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Paralyzed"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.KaKNDyLeWRGqpBlc]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Petrified"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.eJQ3ve6RTdjbNGEz]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Poisoned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.ekm4TUHKT3QUPdPv]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Prone"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.0mkU8eksNfwd1AZY]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Restrained"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.IDLJEkgkdcnljtEW]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Stunned"
+        },
+        {
+          "id": "@Compendium[combat-utility-belt.conditionsdnd5e.S499QUmXTVx81wk8]",
+          "collection": "combat-utility-belt.conditionsdnd5e",
+          "name": "Unconscious"
+        }
+      ]
+    },
+    {
+      "name": "Death",
+      "icon": "icons/svg/skull.svg",
+      "referenceType": "journalEntry",
+      "referenceId": "",
+      "applyTrigger": "z7ir42e42s98vmcu",
+      "removeTrigger": "2fb10pjcyuod8pn1",
+      "options": {
+        "overlay": true,
+        "removeOthers": true,
+        "markDefeated": true
+      },
+      "referenceTypeIcon": "fas fa-book-open",
+      "isJournalReference": true
+    },
+    {
+      "name": "Raging",
+      "icon": "icons/svg/explosion.svg",
+      "referenceType": "journalEntry",
+      "referenceId": "",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-book-open",
+      "isJournalReference": true
+    },
+    {
+      "name": "Sneaky",
+      "icon": "icons/svg/mystery-man-black.svg",
+      "referenceType": "journalEntry",
+      "referenceId": "",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-book-open",
+      "isJournalReference": true
+    },
+    {
+      "name": "Cursed (lycanthropy)",
+      "icon": "icons/svg/pawprint.svg",
+      "referenceType": "journalEntry",
+      "referenceId": "",
+      "applyTrigger": "",
+      "removeTrigger": "",
+      "options": {
+        "overlay": false,
+        "removeOthers": false,
+        "markDefeated": false
+      },
+      "referenceTypeIcon": "fas fa-book-open",
+      "isJournalReference": true
+    }
+  ]
+}
