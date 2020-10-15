@@ -54,7 +54,7 @@
       "path": "packs/npc-players.db",
       "module": "innocenti-worlds",
       "entity": "Actor"
-    }
+    },
     {
       "name": "npcs",
       "label": "NPCs",
