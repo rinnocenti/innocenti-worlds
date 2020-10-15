@@ -3,7 +3,7 @@
   "title": "Innocenti Wolrds",
   "description": "<p>Compendiums para os meus mundos e configurações</p>",
   "author": "Renato innocenti",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "minimumCoreVersion": "0.6.6",
   "compatibleCoreVersion": "0.7.x",
   "esmodules": [],
@@ -15,50 +15,50 @@
   "packs": [
     {
       "name": "factions",
-      "label": "Faerun-Factions",
-      "path": "packs/faccoes-e-tribos.db",
+      "label": "World Factions",
+      "path": "packs/factions.db",
       "module": "innocenti-worlds",
       "entity": "JournalEntry"
     },
     {
-      "name": "citys",
-      "label": "Faerun-Citys",
-      "path": "packs/faerun-citys.db",
+      "name": "cities",
+      "label": "World Cities",
+      "path": "packs/cities.db",
       "module": "innocenti-worlds",
       "entity": "JournalEntry"
     },
     {
-      "name": "locals",
-      "label": "Faerun-Maps-Locals",
-      "path": "packs/faerun-maplocals.db",
-      "module": "innocenti-worlds",
-      "entity": "JournalEntry"
-    },
-    {
-      "name": "oldmaps",
-      "label": "Faerun-Maps-inCity",
-      "path": "packs/faerun-oldmaps.db",
+      "name": "places",
+      "label": "World Places",
+      "path": "packs/places.db",
       "module": "innocenti-worlds",
       "entity": "JournalEntry"
     },
     {
       "name": "dungeons",
-      "label": "Faerun-Dungeons",
-      "path": "packs/faerun-dungeons.db",
+      "label": "World Dungeons",
+      "path": "packs/dungeons.db",
       "module": "innocenti-worlds",
       "entity": "JournalEntry"
     },
     {
-      "name": "handout",
-      "label": "Players-Handouts",
-      "path": "packs/players-handout.db",
+      "name": "handouts",
+      "label": "Players Handouts",
+      "path": "packs/handouts.db",
       "module": "innocenti-worlds",
       "entity": "JournalEntry"
     },
+    {
+      "name": "npcs-players",
+      "label": "NPCs Players",
+      "path": "packs/npc-players.db",
+      "module": "innocenti-worlds",
+      "entity": "Actor"
+    }
     {
       "name": "npcs",
       "label": "NPCs",
-      "path": "packs/my-npcs.db",
+      "path": "packs/npcs.db",
       "module": "innocenti-worlds",
       "entity": "Actor"
     },
@@ -70,32 +70,18 @@
       "entity": "Actor"
     },
     {
-      "name": "shoping",
-      "label": "Shopping",
-      "path": "packs/npc-shoping.db",
-      "module": "innocenti-worlds",
-      "entity": "Actor"
-    },
-    {
       "name": "loots",
       "label": "Loots",
-      "path": "packs/my-loot.db",
+      "path": "packs/loots.db",
       "module": "innocenti-worlds",
       "entity": "Actor"
     },
     {
-      "name": "others",
-      "label": "Others Monsters",
-      "path": "packs/others-monsters.db",
+      "name": "monsters-custom",
+      "label": "Monsters Custom",
+      "path": "packs/monsters-custom.db",
       "module": "innocenti-worlds",
       "entity": "Actor"
-    },
-    {
-      "name": "scenes",
-      "label": "my Scenes",
-      "path": "packs/my-scenes.db",
-      "module": "innocenti-worlds",
-      "entity": "Scene"
     },
     {
       "name": "scenes",
@@ -168,5 +154,4 @@
       "entity": "Macro"
     }
   ]
-
 }
