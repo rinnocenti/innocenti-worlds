@@ -3,11 +3,7 @@
   "title": "Innocenti Wolrds",
   "description": "<p>Compendiums para os meus mundos e configurações</p>",
   "author": "Renato innocenti",
-<<<<<<< HEAD
   "version": "0.7.1",
-=======
-  "version": "0.7.01",
->>>>>>> 44b220bc7a658c45abb44da3ea70abadd541fb52
   "minimumCoreVersion": "0.6.6",
   "compatibleCoreVersion": "0.7.x",
   "esmodules": [],
