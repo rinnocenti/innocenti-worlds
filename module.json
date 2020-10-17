@@ -3,7 +3,7 @@
   "title": "Innocenti Wolrds",
   "description": "<p>Compendiums para os meus mundos e configurações</p>",
   "author": "Renato innocenti",
-  "version": "0.6.8",
+  "version": "0.6.9",
   "minimumCoreVersion": "0.6.6",
   "compatibleCoreVersion": "0.7.x",
   "esmodules": [],
@@ -134,7 +134,7 @@
     },
     {
       "name": "item-mistify",
-      "label": "Item Mistificado",
+      "label": "Custom Item Mistificado",
       "path": "packs/item-mistify.db",
       "module": "innocenti-worlds",
       "entity": "Item"
