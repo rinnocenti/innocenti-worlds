@@ -1,9 +1,9 @@
 {
   "name": "innocenti-worlds",
   "title": "Innocenti Wolrds",
-  "description": "<p>Compendiums para os meus mundos e configurações</p>",
+  "description": "<p>Compendiums para os meus mundos e configuraÃ§Ãµes</p>",
   "author": "Renato innocenti",
-  "version": "0.7.0",
+  "version": "0.7.01",
   "minimumCoreVersion": "0.6.6",
   "compatibleCoreVersion": "0.7.x",
   "esmodules": [],
