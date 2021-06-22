@@ -3,9 +3,9 @@
   "title": "Innocenti Wolrds",
   "description": "<p>Compendiums para os meus mundos e configurações</p>",
   "author": "Renato innocenti",
-  "version": "0.8.11",
+  "version": "0.8.13",
   "minimumCoreVersion": "0.7.0",
-  "compatibleCoreVersion": "0.7.10",
+  "compatibleCoreVersion": "0.8.7",
   "esmodules": [],
   "scripts": [],
   "styles": [],
@@ -159,6 +159,13 @@
       "path": "packs/rotfm-scenes.db",
       "module": "innocenti-worlds",
       "entity": "Scene"
+    },
+    {
+      "name": "custom-playlist",
+      "label": "Playlist",
+      "path": "packs/playlist.db",
+      "module": "innocenti-worlds",
+      "entity": "Playlist"
     }
   ]
 }
