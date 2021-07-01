@@ -3,169 +3,199 @@
   "title": "Innocenti Wolrds",
   "description": "<p>Compendiums para os meus mundos e configurações</p>",
   "author": "Renato innocenti",
-  "version": "0.8.15",
+  "authors": [],
+  "url": "https://github.com/rinnocenti/innocenti-worlds",
+  "flags": {},
+  "version": "0.8.16",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.8.7",
-  "esmodules": [],
   "scripts": [],
+  "esmodules": [],
   "styles": [],
-  "url": "https://github.com/rinnocenti/innocenti-worlds",
-  "manifest": "https://raw.githubusercontent.com/rinnocenti/innocenti-worlds/master/module.json",
-  "download": "https://github.com/rinnocenti/innocenti-worlds/archive/master.zip",
+  "languages": [],
   "packs": [
     {
       "name": "factions",
       "label": "World Factions",
       "path": "packs/factions.db",
       "module": "innocenti-worlds",
-      "entity": "JournalEntry"
+      "entity": "JournalEntry",
+      "private": false
     },
     {
       "name": "cities",
       "label": "World Cities",
       "path": "packs/cities.db",
       "module": "innocenti-worlds",
-      "entity": "JournalEntry"
+      "entity": "JournalEntry",
+      "private": false
     },
     {
       "name": "places",
       "label": "World Places",
       "path": "packs/places.db",
       "module": "innocenti-worlds",
-      "entity": "JournalEntry"
+      "entity": "JournalEntry",
+      "private": false
     },
     {
       "name": "dungeons",
       "label": "World Dungeons",
       "path": "packs/dungeons.db",
       "module": "innocenti-worlds",
-      "entity": "JournalEntry"
+      "entity": "JournalEntry",
+      "private": false
     },
     {
       "name": "handouts",
       "label": "Players Handouts",
       "path": "packs/handouts.db",
       "module": "innocenti-worlds",
-      "entity": "JournalEntry"
+      "entity": "JournalEntry",
+      "private": false
     },
     {
       "name": "npcs",
       "label": "NPCs",
       "path": "packs/npcs.db",
       "module": "innocenti-worlds",
-      "entity": "Actor"
+      "entity": "Actor",
+      "private": false
     },
     {
       "name": "players",
       "label": "Players",
       "path": "packs/my-players.db",
       "module": "innocenti-worlds",
-      "entity": "Actor"
+      "entity": "Actor",
+      "private": false
     },
     {
       "name": "monsters-custom",
       "label": "Monsters Custom",
       "path": "packs/monsters-custom.db",
       "module": "innocenti-worlds",
-      "entity": "Actor"
+      "entity": "Actor",
+      "private": false
     },
     {
       "name": "scenes",
       "label": "World Scenes",
       "path": "packs/my-scenes.db",
       "module": "innocenti-worlds",
-      "entity": "Scene"
+      "entity": "Scene",
+      "private": false
     },
     {
       "name": "item-custom",
       "label": "Custom Items",
       "path": "packs/item-custom.db",
       "module": "innocenti-worlds",
-      "entity": "Item"
+      "entity": "Item",
+      "private": false
     },
     {
       "name": "item-services",
       "label": "Custom Services",
       "path": "packs/item-services.db",
       "module": "innocenti-worlds",
-      "entity": "Item"
+      "entity": "Item",
+      "private": false
     },
     {
       "name": "item-shop",
       "label": "Custom Items Shop",
       "path": "packs/item-shop.db",
       "module": "innocenti-worlds",
-      "entity": "Item"
+      "entity": "Item",
+      "private": false
     },
     {
       "name": "item-gemstones",
       "label": "Custom Gemstones",
       "path": "packs/item-gamestones.db",
       "module": "innocenti-worlds",
-      "entity": "Item"
+      "entity": "Item",
+      "private": false
     },
     {
       "name": "item-recipes",
       "label": "Custom Recipies",
       "path": "packs/item-recipes.db",
       "module": "innocenti-worlds",
-      "entity": "Item"
+      "entity": "Item",
+      "private": false
     },
     {
       "name": "item-foods",
       "label": "Custom Foods",
       "path": "packs/item-food.db",
       "module": "innocenti-worlds",
-      "entity": "Item"
+      "entity": "Item",
+      "private": false
     },
     {
       "name": "item-dae",
       "label": "Custom Item DAE",
       "path": "packs/item-dae.db",
       "module": "innocenti-worlds",
-      "entity": "Item"
+      "entity": "Item",
+      "private": false
     },
     {
       "name": "tables-item",
       "label": "Table Items",
       "path": "packs/table-item.db",
       "module": "innocenti-worlds",
-      "entity": "RollTable"
+      "entity": "RollTable",
+      "private": false
     },
     {
       "name": "macros-houserules",
       "label": "House Rules",
       "path": "packs/macros-hauserules.db",
       "module": "innocenti-worlds",
-      "entity": "Macro"
+      "entity": "Macro",
+      "private": false
     },
     {
       "name": "cos-scenes",
       "label": "Maps Curse of Sthrad",
       "path": "packs/cos-scenes.db",
       "module": "innocenti-worlds",
-      "entity": "Scene"
+      "entity": "Scene",
+      "private": false
     },
     {
       "name": "pota-scenes",
       "label": "Maps Princess of the Apocalypse",
       "path": "packs/pota-scenes.db",
       "module": "innocenti-worlds",
-      "entity": "Scene"
+      "entity": "Scene",
+      "private": false
     },
     {
       "name": "rotfm-scenes",
       "label": "Maps Rime of the Frostmaiden",
       "path": "packs/rotfm-scenes.db",
       "module": "innocenti-worlds",
-      "entity": "Scene"
+      "entity": "Scene",
+      "private": false
     },
     {
       "name": "custom-playlist",
       "label": "Playlist",
       "path": "packs/playlist.db",
       "module": "innocenti-worlds",
-      "entity": "Playlist"
+      "entity": "Playlist",
+      "private": false
     }
-  ]
+  ],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/rinnocenti/innocenti-worlds/master/module.json",
+  "download": "https://github.com/rinnocenti/innocenti-worlds/archive/master.zip",
+  "protected": false,
+  "coreTranslation": false
 }
