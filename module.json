@@ -6,7 +6,7 @@
   "authors": [],
   "url": "https://github.com/rinnocenti/innocenti-worlds",
   "flags": {},
-  "version": "0.9.12",
+  "version": "0.9.13",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.8.9",
   "esmodules": [ "main.js", "scripts/encouter.js", "scripts/visitar.js" ],
@@ -137,6 +137,14 @@
       "name": "item-dae",
       "label": "Custom Item DAE",
       "path": "packs/item-dae.db",
+      "module": "innocenti-worlds",
+      "entity": "Item",
+      "private": false
+    },
+    {
+      "name": "item-charm",
+      "label": "Charm - Gifts",
+      "path": "packs/item-charm.db",
       "module": "innocenti-worlds",
       "entity": "Item",
       "private": false
