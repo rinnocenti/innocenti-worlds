@@ -1,26 +1,24 @@
 export let Visitar = async function () {
     if (canvas.tokens.controlled.length === 0)
         return ui.notifications.error("select a token");
-    const target = game.user.targets.values().next().value;
-    if (!target) {
+    if (!game.user.targets.values().next().value) {
         ui.notifications.warn("No token is targeted");
         return;
     }
+    let userid = game.user.id;
     for (let targetToken of game.user.targets) {
-        let flag = targetToken.actor.getFlag('lootsheetnpc5e', 'lootsheettype');// !== 'Merchant'
-        //targetToken.actor.sheet.constructor.name !== SHEETVISIT
+        let flag = targetToken.actor.getFlag('lootsheetnpc5e', 'lootsheettype');
         if (flag === 'Merchant') {
             if (!game.user.isGM) {
-                let targactor = await game.actors.entities.find(a => a.id === targetToken.actor.id);
                 let permission = false;
-                let perm = targactor.data.permission;
-                if (!perm[`${game.user.id}`]) {
+                let perm = targetToken.actor.data.permission;
+                if (!perm[`${userid}`]) {
                     permission = true;
                 }
-                await game.socket.emit("module.innocenti-visit", { actorName: targactor.name, userid: game.user.id, targetName: targetToken.name, permission: permission, speaker: ChatMessage.getSpeaker()});
+                await game.socket.emit("module.innocenti-worlds", { action: "visitar", targetId: targetToken.id, userid: game.user.id, permission: permission, speaker: ChatMessage.getSpeaker()});
             }
             let img = targetToken.actor.img || targetToken.data.img;
-            let imgtk = targetToken.data.img || targetToken.actor.img;
+            let imgtk = targetToken.img || targetToken.data.img;
             await ChatMessage.create({
                 content: `<h3><img src=\"${img}\" width=\"50px\" /> Bem Vindo ao <strong>${targetToken.name}</strong></h3>`,
                 type: CONST.CHAT_MESSAGE_TYPES.EMOTE,
@@ -28,8 +26,6 @@ export let Visitar = async function () {
                 flavor: `<h3><img src=\"${imgtk}\" width=\"30px\" /></h3>`
             });
         }
-        setTimeout(function () { targetToken._onClickLeft2() }, 500);
+        setTimeout(function () { targetToken.actor._sheet.render(true) }, 500);
     }
-    
-    //await targetToken._onClickLeft2();
 }
