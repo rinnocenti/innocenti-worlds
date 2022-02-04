@@ -22,11 +22,13 @@ export class Encounters {
         await game.betterTables.betterTableRoll(this.tableName);
         await $(`select.roll-type-select`).val(`roll`).change();
     }
-    async FindTableRoll(tableName, rollTableEncounterPack = `innocenti-encounters.tables-encounter`) {
+    async FindTableRoll(tableName, rollTableEncounterPack = `innocenti-worlds.tables-encounter`) {
         tableName = tableName ?? `${EncounterTablePrefix} ${game.scenes.active.name}`;
         let table;
         try {
-            table = await game.tables.entities.find(t => t.name === tableName);
+            
+            table = await game.tables.find(t => t.name === tableName);
+            console.log("TABLES", table)
             if (!table) {
                 const pack = await game.packs.get(rollTableEncounterPack);
                 let entry = await pack.index.find(a => a.name === tableName);
