@@ -2,7 +2,7 @@
   "id": "innocenti-worlds",
   "title": "Innocenti Wolrds",
   "description": "<p>Compendiums para os meus mundos e configurações</p>",
-  "version": "0.9.34",
+  "version": "0.9.36",
   "authors": [
     {
       "name": "Innocenti",
@@ -38,8 +38,18 @@
       "flags": {}
     },
     {
+      "name": "midi-dae-spells",
+      "label": "MIDI DAE Spells",
+      "path": "packs/midi-dae-spells.db",
+      "module": "innocenti-worlds",
+      "type": "Item",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
       "name": "spell-by-class",
-      "label": "Spell By Class",
+      "label": "Scrolls By Class",
       "path": "packs/spell-by-class.db",
       "module": "innocenti-worlds",
       "type": "Item",
@@ -75,6 +85,16 @@
       "type": "Item",
       "system": "dnd5e",
       "private": false,
+      "flags": {}
+    },
+    {
+      "name": "rolltable-encounters",
+      "label": "RollTables Encounters",
+      "path": "packs/rolltable-encounters.db",
+      "module": "innocenti-worlds",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "private": true,
       "flags": {}
     },
     {
