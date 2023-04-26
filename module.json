@@ -2,7 +2,7 @@
   "id": "innocenti-worlds",
   "title": "Innocenti Wolrds",
   "description": "<p>Compendiums para os meus mundos e configurações</p>",
-  "version": "0.9.36",
+  "version": "1.0.3",
   "authors": [
     {
       "name": "Innocenti",
@@ -18,258 +18,339 @@
   "languages": [],
   "packs": [
     {
-      "name": "item-custom",
-      "label": "Custom Items",
-      "path": "packs/item-custom.db",
-      "module": "innocenti-worlds",
-      "type": "Item",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "custom-campaign-items",
-      "label": "Custom Campaign Items",
-      "path": "packs/custom-campaign-items.db",
-      "module": "innocenti-worlds",
-      "type": "Item",
-      "system": "dnd5e",
-      "private": true,
-      "flags": {}
-    },
-    {
-      "name": "midi-dae-spells",
-      "label": "MIDI DAE Spells",
-      "path": "packs/midi-dae-spells.db",
-      "module": "innocenti-worlds",
-      "type": "Item",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "spell-by-class",
-      "label": "Scrolls By Class",
-      "path": "packs/spell-by-class.db",
-      "module": "innocenti-worlds",
-      "type": "Item",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "item-gemstones",
-      "label": "Custom Gemstones",
-      "path": "packs/item-gamestones.db",
-      "module": "innocenti-worlds",
-      "type": "Item",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "item-charm",
-      "label": "Custom Charms & Gifts",
-      "path": "packs/item-charm.db",
-      "module": "innocenti-worlds",
-      "type": "Item",
-      "system": "dnd5e",
-      "private": true,
-      "flags": {}
-    },
-    {
-      "name": "item-dae",
-      "label": "Custom Item DAE",
-      "path": "packs/item-dae.db",
-      "module": "innocenti-worlds",
-      "type": "Item",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "rolltable-encounters",
-      "label": "RollTables Encounters",
-      "path": "packs/rolltable-encounters.db",
-      "module": "innocenti-worlds",
-      "type": "RollTable",
-      "system": "dnd5e",
-      "private": true,
-      "flags": {}
-    },
-    {
-      "name": "tables-others",
-      "label": "RollTables Outros",
-      "path": "packs/tables-others.db",
-      "module": "innocenti-worlds",
-      "type": "RollTable",
-      "system": "dnd5e",
-      "private": true,
-      "flags": {}
-    },
-    {
-      "name": "factions",
-      "label": "World Factions",
-      "path": "packs/factions.db",
-      "module": "innocenti-worlds",
-      "type": "JournalEntry",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "cities",
-      "label": "World Cities",
-      "path": "packs/cities.db",
-      "module": "innocenti-worlds",
-      "type": "JournalEntry",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "places",
-      "label": "World Places",
-      "path": "packs/places.db",
-      "module": "innocenti-worlds",
-      "type": "JournalEntry",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "dungeons",
-      "label": "World Dungeons",
-      "path": "packs/dungeons.db",
-      "module": "innocenti-worlds",
-      "type": "JournalEntry",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "handouts",
-      "label": "Players Handouts",
-      "path": "packs/handouts.db",
-      "module": "innocenti-worlds",
-      "type": "JournalEntry",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "npcs",
-      "label": "NPCs",
-      "path": "packs/npcs.db",
-      "module": "innocenti-worlds",
-      "type": "Actor",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "players",
-      "label": "Players",
-      "path": "packs/my-players.db",
-      "module": "innocenti-worlds",
-      "type": "Actor",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "monsters-custom",
-      "label": "Monsters Custom",
-      "path": "packs/monsters-custom.db",
-      "module": "innocenti-worlds",
-      "type": "Actor",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "scenes",
-      "label": "World Scenes",
-      "path": "packs/my-scenes.db",
-      "module": "innocenti-worlds",
-      "type": "Scene",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "item-recipes",
-      "label": "Custom Recipies",
-      "path": "packs/item-recipes.db",
-      "module": "innocenti-worlds",
-      "type": "Item",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "tables-item",
-      "label": "Table Items",
-      "path": "packs/table-item.db",
-      "module": "innocenti-worlds",
-      "type": "RollTable",
-      "system": "dnd5e",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "macros-houserules",
-      "label": "House Rules",
-      "path": "packs/macros-hauserules.db",
+      "name": "innocenti-macros-houserules",
+      "label": "Innocenti Macros Houserules",
+      "path": "packs/innocenti-macros-houserules.db",
       "module": "innocenti-worlds",
       "type": "Macro",
       "system": "dnd5e",
-      "private": false,
+      "private": true,
       "flags": {}
     },
     {
-      "name": "cos-scenes",
-      "label": "Maps Curse of Sthrad",
-      "path": "packs/cos-scenes.db",
+      "name": "innocenti-actors-merchants",
+      "label": "Innocenti Actors Merchants",
+      "path": "packs/innocenti-actors-merchants.db",
       "module": "innocenti-worlds",
-      "type": "Scene",
+      "type": "Actor",
       "system": "dnd5e",
-      "private": false,
+      "private": true,
       "flags": {}
     },
     {
-      "name": "pota-scenes",
-      "label": "Maps Princess of the Apocalypse",
-      "path": "packs/pota-scenes.db",
+      "name": "innocenti-actors-monsters",
+      "label": "Innocenti Actors Monsters",
+      "path": "packs/innocenti-actors-monsters.db",
       "module": "innocenti-worlds",
-      "type": "Scene",
+      "type": "Actor",
       "system": "dnd5e",
-      "private": false,
+      "private": true,
       "flags": {}
     },
     {
-      "name": "rotfm-scenes",
-      "label": "Maps Rime of the Frostmaiden",
-      "path": "packs/rotfm-scenes.db",
+      "name": "innocenti-actors-players",
+      "label": "Innocenti Actors Players",
+      "path": "packs/innocenti-actors-players.db",
       "module": "innocenti-worlds",
-      "type": "Scene",
+      "type": "Actor",
       "system": "dnd5e",
-      "private": false,
+      "private": true,
       "flags": {}
     },
     {
-      "name": "custom-playlist",
-      "label": "Playlist",
-      "path": "packs/playlist.db",
+      "name": "innocenti-actors-npcs",
+      "label": "Innocenti Actors NPCs",
+      "path": "packs/innocenti-actors-npcs.db",
+      "module": "innocenti-worlds",
+      "type": "Actor",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-items-automation",
+      "label": "Innocenti Items Automation",
+      "path": "packs/innocenti-items-automation.db",
+      "module": "innocenti-worlds",
+      "type": "Item",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-items-recipes",
+      "label": "Innocenti Items Recipies",
+      "path": "packs/innocenti-items-recipes.db",
+      "module": "innocenti-worlds",
+      "type": "Item",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-items-adventure",
+      "label": "Innocenti Items Adventure",
+      "path": "packs/innocenti-items-adventure.db",
+      "module": "innocenti-worlds",
+      "type": "Item",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-items-campaingn",
+      "label": "Innocenti Items Campaingn",
+      "path": "packs/innocenti-items-campaingn.db",
+      "module": "innocenti-worlds",
+      "type": "Item",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-items-spellsdae",
+      "label": "Innocenti Items Spell DAE",
+      "path": "packs/innocenti-items-spellsdae.db",
+      "module": "innocenti-worlds",
+      "type": "Item",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-items-spellsbyclass",
+      "label": "Innocenti Items Spell by Class",
+      "path": "packs/innocenti-items-spellsbyclass.db",
+      "module": "innocenti-worlds",
+      "type": "Item",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-items-gemstone",
+      "label": "Innocenti Items Gamestone",
+      "path": "packs/innocenti-items-gemstone.db",
+      "module": "innocenti-worlds",
+      "type": "Item",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-items-charmgift",
+      "label": "Innocenti Items Charms e Gifts",
+      "path": "packs/innocenti-items-charmgift.db",
+      "module": "innocenti-worlds",
+      "type": "Item",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-journals-idrotf",
+      "label": "Innocenti Journal IDRotF",
+      "path": "packs/innocenti-journals-idrotf.db",
+      "module": "innocenti-worlds",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-journals-cos",
+      "label": "Innocenti Journal CoS",
+      "path": "packs/innocenti-journals-cos.db",
+      "module": "innocenti-worlds",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-journals-tlmop",
+      "label": "Innocenti Journal tLMoP",
+      "path": "packs/innocenti-journals-tlmop.db",
+      "module": "innocenti-worlds",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-journals-tlmop",
+      "label": "Innocenti Journal tLMoP",
+      "path": "packs/innocenti-journals-tlmop.db",
+      "module": "innocenti-worlds",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-journals-pota",
+      "label": "Innocenti Journal PotA",
+      "path": "packs/innocenti-journals-pota.db",
+      "module": "innocenti-worlds",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-journals-tod",
+      "label": "Innocenti Journal ToD",
+      "path": "packs/innocenti-journals-tod.db",
+      "module": "innocenti-worlds",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-journals-places",
+      "label": "Innocenti Journal Places",
+      "path": "packs/innocenti-journals-places.db",
+      "module": "innocenti-worlds",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-journals-persona",
+      "label": "Innocenti Journal Persona",
+      "path": "packs/innocenti-journals-persona.db",
+      "module": "innocenti-worlds",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-journals-factions",
+      "label": "Innocenti Journal Factions",
+      "path": "packs/innocenti-journals-factions.db",
+      "module": "innocenti-worlds",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-journals-cities",
+      "label": "Innocenti Journal Cities",
+      "path": "packs/innocenti-journals-cities",
+      "module": "innocenti-worlds",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-rolltable-others",
+      "label": "Innocenti RollTables Others",
+      "path": "packs/innocenti-rolltable-others.db",
+      "module": "innocenti-worlds",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-rolltable-merchants",
+      "label": "Innocenti RollTables Merchants",
+      "path": "packs/innocenti-rolltable-merchants.db",
+      "module": "innocenti-worlds",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-rolltable-encounters",
+      "label": "Innocenti RollTables Encounters",
+      "path": "packs/innocenti-rolltable-encounters.db",
+      "module": "innocenti-worlds",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+  
+    {
+      "name": "innocenti-playlist-combat",
+      "label": "Innocenti Playlist Combat",
+      "path": "packs/innocenti-playlist-combat.db",
       "module": "innocenti-worlds",
       "type": "Playlist",
       "system": "dnd5e",
-      "private": false,
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-playlist-sfx",
+      "label": "Innocenti Playlist SFX",
+      "path": "packs/innocenti-playlist-sfx.db",
+      "module": "innocenti-worlds",
+      "type": "Playlist",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-playlist-thematic",
+      "label": "Innocenti Playlist Thematic",
+      "path": "packs/innocenti-playlist-thematic.db",
+      "module": "innocenti-worlds",
+      "type": "Playlist",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-scenes-worlds",
+      "label": "Innocenti Scene Worlds",
+      "path": "packs/innocenti-scenes-worlds.db",
+      "module": "innocenti-worlds",
+      "type": "Scene",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-scenes-cos",
+      "label": "Maps Curse of Sthrad",
+      "path": "packs/innocenti-scenes-cos.db",
+      "module": "innocenti-worlds",
+      "type": "Scene",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-scenes-pota",
+      "label": "Maps Princess of the Apocalypse",
+      "path": "packs/innocenti-scenes-pota.db",
+      "module": "innocenti-worlds",
+      "type": "Scene",
+      "system": "dnd5e",
+      "private": true,
+      "flags": {}
+    },
+    {
+      "name": "innocenti-scenes-rotfm",
+      "label": "Maps Rime of the Frostmaiden",
+      "path": "innocenti-scenes-rotfm.db",
+      "module": "innocenti-worlds",
+      "type": "Scene",
+      "system": "dnd5e",
+      "private": true,
       "flags": {}
     }
   ],
   "compatibility": {
-    "minimum": "9",
+    "minimum": "10",
     "verified": "10.288",
     "maximum": "10"
   },
