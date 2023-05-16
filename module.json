@@ -2,7 +2,7 @@
   "id": "innocenti-worlds",
   "title": "Innocenti Wolrds",
   "description": "<p>Compendiums para os meus mundos e configurações</p>",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "authors": [
     {
       "name": "Innocenti",
@@ -168,9 +168,9 @@
       "flags": {}
     },
     {
-      "name": "innocenti-journals-tlmop",
-      "label": "Innocenti Journal tLMoP",
-      "path": "packs/innocenti-journals-tlmop.db",
+      "name": "innocenti-journals-ek",
+      "label": "Innocenti Journal Essential Kit",
+      "path": "packs/innocenti-journals-ek.db",
       "module": "innocenti-worlds",
       "type": "JournalEntry",
       "system": "dnd5e",
