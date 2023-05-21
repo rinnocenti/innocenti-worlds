@@ -12,13 +12,12 @@
     "verified": "10.291",
     "maximum": "10"
   },
-  "coreTranslation": false,
   "description": "<p>Compendiums para os meus mundos e configurações</p>",
   "download": "https://github.com/rinnocenti/innocenti-worlds/archive/master.zip",
-  "esmodules": [ "main.js"],
-  "flags": {},
+  "esmodules": [
+    "main.js"
+  ],
   "id": "innocenti-worlds",
-  "languages": [],
   "manifest": "https://raw.githubusercontent.com/rinnocenti/innocenti-worlds/master/module.json",
   "packs": [
     {
@@ -255,7 +254,6 @@
       "private": true,
       "flags": {}
     },
-
     {
       "name": "innocenti-playlist-combat",
       "label": "Innocenti Playlist Combat",
@@ -320,8 +318,6 @@
       "flags": {}
     }
   ],
-  "protected": false,
-  "styles": [],
   "title": "Innocenti Wolrds",
   "url": "https://github.com/rinnocenti/innocenti-worlds",
   "version": "1.0.6"
