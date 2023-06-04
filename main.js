@@ -1,4 +1,3 @@
-import { Visitar } from './scripts/visitar.js';
 import { Encounters } from './scripts/encounter.js';
 
 Hooks.once("init", async () => {
@@ -12,7 +11,7 @@ Hooks.once("init", async () => {
                         let newpermissions = duplicate(merchantToken.actor.data.permission);
                         newpermissions[`${data.userid}`] = 2;
                         let permissions = new PermissionControl(merchantToken.actor);
-                        permissions._updateObject(event, newpermissions);
+                        permissions._updateObject(this, newpermissions);
                         
                     }
                     ChatMessage.create({
@@ -29,6 +28,5 @@ Hooks.once("init", async () => {
     });
 });
 window.InnocentiWorld = {
-    Visitar: Visitar,
     Encounters: Encounters
 }

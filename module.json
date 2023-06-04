@@ -9,8 +9,8 @@
   ],
   "compatibility": {
     "minimum": "10",
-    "verified": "10.291",
-    "maximum": "10"
+    "verified": "11",
+    "maximum": "11"
   },
   "description": "<p>Compendiums para os meus mundos e configurações</p>",
   "download": "https://github.com/rinnocenti/innocenti-worlds/archive/master.zip",
@@ -26,8 +26,8 @@
       "path": "packs/innocenti-macros-houserules.db",
       "type": "Macro",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-actors-merchants",
@@ -35,8 +35,8 @@
       "path": "packs/innocenti-actors-merchants.db",
       "type": "Actor",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-actors-monsters",
@@ -44,8 +44,8 @@
       "path": "packs/innocenti-actors-monsters.db",
       "type": "Actor",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-actors-players",
@@ -53,8 +53,8 @@
       "path": "packs/innocenti-actors-players.db",
       "type": "Actor",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-actors-npcs",
@@ -62,8 +62,8 @@
       "path": "packs/innocenti-actors-npcs.db",
       "type": "Actor",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-items-automation",
@@ -71,8 +71,8 @@
       "path": "packs/innocenti-items-automation.db",
       "type": "Item",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-items-recipes",
@@ -80,8 +80,8 @@
       "path": "packs/innocenti-items-recipes.db",
       "type": "Item",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-items-adventure",
@@ -89,8 +89,8 @@
       "path": "packs/innocenti-items-adventure.db",
       "type": "Item",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-items-campaingn",
@@ -98,8 +98,8 @@
       "path": "packs/innocenti-items-campaingn.db",
       "type": "Item",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-items-spellsdae",
@@ -107,8 +107,8 @@
       "path": "packs/innocenti-items-spellsdae.db",
       "type": "Item",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-items-spellsbyclass",
@@ -116,8 +116,8 @@
       "path": "packs/innocenti-items-spellsbyclass.db",
       "type": "Item",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-items-gemstone",
@@ -125,8 +125,8 @@
       "path": "packs/innocenti-items-gemstone.db",
       "type": "Item",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-items-charmgift",
@@ -134,8 +134,8 @@
       "path": "packs/innocenti-items-charmgift.db",
       "type": "Item",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-journals-idrotf",
@@ -143,8 +143,8 @@
       "path": "packs/innocenti-journals-idrotf.db",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-journals-cos",
@@ -152,8 +152,8 @@
       "path": "packs/innocenti-journals-cos.db",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-journals-ek",
@@ -161,8 +161,8 @@
       "path": "packs/innocenti-journals-ek.db",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-journals-tlmop",
@@ -170,8 +170,8 @@
       "path": "packs/innocenti-journals-tlmop.db",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-journals-pota",
@@ -179,8 +179,8 @@
       "path": "packs/innocenti-journals-pota.db",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-journals-tod",
@@ -188,8 +188,8 @@
       "path": "packs/innocenti-journals-tod.db",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-journals-places",
@@ -197,8 +197,8 @@
       "path": "packs/innocenti-journals-places.db",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-journals-persona",
@@ -206,8 +206,8 @@
       "path": "packs/innocenti-journals-persona.db",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-journals-factions",
@@ -215,8 +215,8 @@
       "path": "packs/innocenti-journals-factions.db",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-journals-cities",
@@ -224,8 +224,8 @@
       "path": "packs/innocenti-journals-cities",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-rolltable-others",
@@ -233,8 +233,8 @@
       "path": "packs/innocenti-rolltable-others.db",
       "type": "RollTable",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-rolltable-merchants",
@@ -242,8 +242,8 @@
       "path": "packs/innocenti-rolltable-merchants.db",
       "type": "RollTable",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-rolltable-encounters",
@@ -251,8 +251,8 @@
       "path": "packs/innocenti-rolltable-encounters.db",
       "type": "RollTable",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-playlist-combat",
@@ -260,8 +260,8 @@
       "path": "packs/innocenti-playlist-combat.db",
       "type": "Playlist",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-playlist-sfx",
@@ -269,8 +269,8 @@
       "path": "packs/innocenti-playlist-sfx.db",
       "type": "Playlist",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-playlist-thematic",
@@ -278,8 +278,8 @@
       "path": "packs/innocenti-playlist-thematic.db",
       "type": "Playlist",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-scenes-worlds",
@@ -287,8 +287,8 @@
       "path": "packs/innocenti-scenes-worlds.db",
       "type": "Scene",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-scenes-cos",
@@ -296,8 +296,8 @@
       "path": "packs/innocenti-scenes-cos.db",
       "type": "Scene",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-scenes-pota",
@@ -305,8 +305,8 @@
       "path": "packs/innocenti-scenes-pota.db",
       "type": "Scene",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     },
     {
       "name": "innocenti-scenes-rotfm",
@@ -314,11 +314,11 @@
       "path": "innocenti-scenes-rotfm.db",
       "type": "Scene",
       "system": "dnd5e",
-      "private": true,
-      "flags": {}
+      "flags": {},
+      "private": false
     }
   ],
   "title": "Innocenti Wolrds",
   "url": "https://github.com/rinnocenti/innocenti-worlds",
-  "version": "1.0.6"
+  "version": "11.0.6"
 }
