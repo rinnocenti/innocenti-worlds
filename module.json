@@ -221,7 +221,7 @@
     {
       "name": "innocenti-journals-cities",
       "label": "Innocenti Journal Cities",
-      "path": "packs/innocenti-journals-cities",
+      "path": "packs/innocenti-journals-cities.db",
       "type": "JournalEntry",
       "system": "dnd5e",
       "flags": {},
@@ -320,5 +320,5 @@
   ],
   "title": "Innocenti Wolrds",
   "url": "https://github.com/rinnocenti/innocenti-worlds",
-  "version": "11.0.9"
+  "version": "11.0.10"
 }
