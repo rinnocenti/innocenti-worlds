@@ -2,9 +2,8 @@
   "authors": [
     {
       "name": "Innocenti",
-      "discord": "Innocenti#1455",
       "email": "renato.innocenti@gmail.com",
-      "flags": {}
+      "discord": "Innocenti#1455"
     }
   ],
   "compatibility": {
@@ -12,313 +11,458 @@
     "verified": "11",
     "maximum": "11"
   },
-  "description": "<p>Compendiums para os meus mundos e configurações</p>",
+  "description": "Compendiums Para meus mundos configurados",
   "download": "https://github.com/rinnocenti/innocenti-worlds/archive/master.zip",
   "esmodules": [
     "main.js"
   ],
   "id": "innocenti-worlds",
   "manifest": "https://raw.githubusercontent.com/rinnocenti/innocenti-worlds/master/module.json",
+  "packFolders": [
+    {
+      "name": "Innocenti's Worlds'",
+      "sorting": "a",
+      "color": "#08630a",
+      "packs": [
+        "innocenti-macros-houserules",
+        "innocenti-actors-merchants",
+        "innocenti-actors-monsters",
+        "innocenti-actors-players",
+        "innocenti-actors-npcs",
+        "innocenti-items-automation",
+        "innocenti-items-recipes",
+        "innocenti-items-adventure",
+        "innocenti-items-campaingn",
+        "innocenti-items-spellsdae",
+        "innocenti-items-spellsbyclass",
+        "innocenti-items-gemstone",
+        "innocenti-items-charmgift",
+        "innocenti-journals-idrotf",
+        "innocenti-journals-cos",
+        "innocenti-journals-ek",
+        "innocenti-journals-tlmop",
+        "innocenti-journals-pota",
+        "innocenti-journals-tod",
+        "innocenti-journals-places",
+        "innocenti-journals-persona",
+        "innocenti-journals-factions",
+        "innocenti-journals-cities",
+        "innocenti-rolltable-others",
+        "innocenti-rolltable-merchants",
+        "innocenti-rolltable-encounters",
+        "innocenti-playlist-combat",
+        "innocenti-playlist-sfx",
+        "innocenti-playlist-thematic",
+        "innocenti-scenes-worlds",
+        "innocenti-scenes-cos",
+        "innocenti-scenes-pota",
+        "innocenti-scenes-esk",
+        "innocenti-scenes-tlmop",
+        "innocenti-scenes-rotfm",
+        "innocenti-scenes-tod"
+      ],
+      "folders": []
+    }
+  ],
   "packs": [
     {
       "name": "innocenti-macros-houserules",
       "label": "Innocenti Macros Houserules",
-      "path": "packs/innocenti-macros-houserules.db",
+      "path": "packs/innocenti-macros-houserules",
       "type": "Macro",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-actors-merchants",
       "label": "Innocenti Actors Merchants",
-      "path": "packs/innocenti-actors-merchants.db",
+      "path": "packs/innocenti-actors-merchants",
       "type": "Actor",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-actors-monsters",
       "label": "Innocenti Actors Monsters",
-      "path": "packs/innocenti-actors-monsters.db",
+      "path": "packs/innocenti-actors-monsters",
       "type": "Actor",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-actors-players",
       "label": "Innocenti Actors Players",
-      "path": "packs/innocenti-actors-players.db",
+      "path": "packs/innocenti-actors-players",
       "type": "Actor",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-actors-npcs",
       "label": "Innocenti Actors NPCs",
-      "path": "packs/innocenti-actors-npcs.db",
+      "path": "packs/innocenti-actors-npcs",
       "type": "Actor",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-items-automation",
       "label": "Innocenti Items Automation",
-      "path": "packs/innocenti-items-automation.db",
+      "path": "packs/innocenti-items-automation",
       "type": "Item",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-items-recipes",
       "label": "Innocenti Items Recipies",
-      "path": "packs/innocenti-items-recipes.db",
+      "path": "packs/innocenti-items-recipes",
       "type": "Item",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-items-adventure",
       "label": "Innocenti Items Adventure",
-      "path": "packs/innocenti-items-adventure.db",
+      "path": "packs/innocenti-items-adventure",
       "type": "Item",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-items-campaingn",
       "label": "Innocenti Items Campaingn",
-      "path": "packs/innocenti-items-campaingn.db",
+      "path": "packs/innocenti-items-campaingn",
       "type": "Item",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-items-spellsdae",
       "label": "Innocenti Items Spell DAE",
-      "path": "packs/innocenti-items-spellsdae.db",
+      "path": "packs/innocenti-items-spellsdae",
       "type": "Item",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-items-spellsbyclass",
       "label": "Innocenti Items Spell by Class",
-      "path": "packs/innocenti-items-spellsbyclass.db",
+      "path": "packs/innocenti-items-spellsbyclass",
       "type": "Item",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-items-gemstone",
       "label": "Innocenti Items Gamestone",
-      "path": "packs/innocenti-items-gemstone.db",
+      "path": "packs/innocenti-items-gemstone",
       "type": "Item",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-items-charmgift",
       "label": "Innocenti Items Charms e Gifts",
-      "path": "packs/innocenti-items-charmgift.db",
+      "path": "packs/innocenti-items-charmgift",
       "type": "Item",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-journals-idrotf",
       "label": "Innocenti Journal IDRotF",
-      "path": "packs/innocenti-journals-idrotf.db",
+      "path": "packs/innocenti-journals-idrotf",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-journals-cos",
       "label": "Innocenti Journal CoS",
-      "path": "packs/innocenti-journals-cos.db",
+      "path": "packs/innocenti-journals-cos",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-journals-ek",
       "label": "Innocenti Journal Essential Kit",
-      "path": "packs/innocenti-journals-ek.db",
+      "path": "packs/innocenti-journals-ek",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-journals-tlmop",
       "label": "Innocenti Journal tLMoP",
-      "path": "packs/innocenti-journals-tlmop.db",
+      "path": "packs/innocenti-journals-tlmop",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-journals-pota",
       "label": "Innocenti Journal PotA",
-      "path": "packs/innocenti-journals-pota.db",
+      "path": "packs/innocenti-journals-pota",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-journals-tod",
       "label": "Innocenti Journal ToD",
-      "path": "packs/innocenti-journals-tod.db",
+      "path": "packs/innocenti-journals-tod",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-journals-places",
       "label": "Innocenti Journal Places",
-      "path": "packs/innocenti-journals-places.db",
+      "path": "packs/innocenti-journals-places",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-journals-persona",
       "label": "Innocenti Journal Persona",
-      "path": "packs/innocenti-journals-persona.db",
+      "path": "packs/innocenti-journals-persona",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-journals-factions",
       "label": "Innocenti Journal Factions",
-      "path": "packs/innocenti-journals-factions.db",
+      "path": "packs/innocenti-journals-factions",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-journals-cities",
       "label": "Innocenti Journal Cities",
-      "path": "packs/innocenti-journals-cities.db",
+      "path": "packs/innocenti-journals-cities",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-rolltable-others",
       "label": "Innocenti RollTables Others",
-      "path": "packs/innocenti-rolltable-others.db",
+      "path": "packs/innocenti-rolltable-others",
       "type": "RollTable",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-rolltable-merchants",
       "label": "Innocenti RollTables Merchants",
-      "path": "packs/innocenti-rolltable-merchants.db",
+      "path": "packs/innocenti-rolltable-merchants",
       "type": "RollTable",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-rolltable-encounters",
       "label": "Innocenti RollTables Encounters",
-      "path": "packs/innocenti-rolltable-encounters.db",
+      "path": "packs/innocenti-rolltable-encounters",
       "type": "RollTable",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-playlist-combat",
       "label": "Innocenti Playlist Combat",
-      "path": "packs/innocenti-playlist-combat.db",
+      "path": "packs/innocenti-playlist-combat",
       "type": "Playlist",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-playlist-sfx",
       "label": "Innocenti Playlist SFX",
-      "path": "packs/innocenti-playlist-sfx.db",
+      "path": "packs/innocenti-playlist-sfx",
       "type": "Playlist",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-playlist-thematic",
       "label": "Innocenti Playlist Thematic",
-      "path": "packs/innocenti-playlist-thematic.db",
+      "path": "packs/innocenti-playlist-thematic",
       "type": "Playlist",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-scenes-worlds",
       "label": "Innocenti Scene Worlds",
-      "path": "packs/innocenti-scenes-worlds.db",
+      "path": "packs/innocenti-scenes-worlds",
       "type": "Scene",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-scenes-cos",
       "label": "Maps Curse of Sthrad",
-      "path": "packs/innocenti-scenes-cos.db",
+      "path": "packs/innocenti-scenes-cos",
       "type": "Scene",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-scenes-pota",
       "label": "Maps Princess of the Apocalypse",
-      "path": "packs/innocenti-scenes-pota.db",
+      "path": "packs/innocenti-scenes-pota",
       "type": "Scene",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "innocenti-scenes-esk",
+      "label": "Maps Essentials Kit",
+      "path": "packs/innocenti-scenes-esk",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "innocenti-scenes-tlmop",
+      "label": "Maps The Lost Mine Of Phandolver",
+      "path": "packs/innocenti-scenes-tlmop",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "innocenti-scenes-rotfm",
       "label": "Maps Rime of the Frostmaiden",
-      "path": "innocenti-scenes-rotfm.db",
+      "path": "packs/innocenti-scenes-rotfm",
       "type": "Scene",
       "system": "dnd5e",
-      "flags": {},
-      "private": false
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "maps-tyranny-of-dragons",
+      "label": "Maps Tyranny of Dragons",
+      "path": "packs/innocenti-scenes-tod",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "title": "Innocenti Wolrds",
   "url": "https://github.com/rinnocenti/innocenti-worlds",
-  "version": "11.0.11"
+  "version": "11.0.16"
 }
