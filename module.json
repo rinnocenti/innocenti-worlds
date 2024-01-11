@@ -20,7 +20,7 @@
   "manifest": "https://raw.githubusercontent.com/rinnocenti/innocenti-worlds/master/module.json",
   "packFolders": [
     {
-      "name": "Innocenti's Worlds'",
+      "name": "Innocenti's Worlds",
       "sorting": "a",
       "color": "#08630a",
       "packs": [
@@ -319,6 +319,17 @@
       }
     },
     {
+      "name": "innocenti-journal-oota",
+      "label": "Innocenti Journal OotA",
+      "path": "packs/innocenti-journal-oota",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "innocenti-rolltable-others",
       "label": "Innocenti RollTables Others",
       "path": "packs/innocenti-rolltable-others",
@@ -460,9 +471,20 @@
         "ASSISTANT": "OWNER"
       },
       "system": "dnd5e"
+    },
+    {
+      "name": "innocenti-scenes-oota",
+      "label": "Maps Out of the Abyss",
+      "path": "packs/innocenti-scenes-oota",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "title": "Innocenti Wolrds",
   "url": "https://github.com/rinnocenti/innocenti-worlds",
-  "version": "11.0.16"
+  "version": "11.0.17"
 }
